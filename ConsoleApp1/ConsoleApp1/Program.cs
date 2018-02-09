@@ -12,6 +12,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //modif effectuee dans le cloud
+            //modif effectuee dans visual studio
         }
     }
 }
